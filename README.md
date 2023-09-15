@@ -16,4 +16,5 @@ This repo contains of algorithm and fun task implemented in a Zig programming la
 9. [Leap](https://github.com/bartossh/algoZig/blob/main/leap/README.md)
 10. [Pangram](https://github.com/bartossh/algoZig/blob/main/pangram/README.md)
 11. [Scrabble-score](https://github.com/bartossh/algoZig/blob/main/scrabble-score/README.md)
+12. [Resistor-color](https://github.com/bartossh/algoZig/blob/main/resistor-color/README.md)
 
