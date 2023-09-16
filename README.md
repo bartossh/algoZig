@@ -18,3 +18,8 @@ This repo contains of algorithm and fun task implemented in a Zig programming la
 11. [Scrabble-score](https://github.com/bartossh/algoZig/blob/main/scrabble-score/README.md)
 12. [Resistor-color](https://github.com/bartossh/algoZig/blob/main/resistor-color/README.md)
 13. [Resistor-color-duo](https://github.com/bartossh/algoZig/blob/main/resistor-color-duo/README.md)
+14. [Darts](https://github.com/bartossh/algoZig/blob/main/darts/README.md)
+14. [Luhn](https://github.com/bartossh/algoZig/blob/main/luhn/README.md)
+14. [Nucleotide-count](https://github.com/bartossh/algoZig/blob/main/nucleotide-count/README.md)
+14. [Space-age](https://github.com/bartossh/algoZig/blob/main/space-age/README.md)
+14. [Triangle](https://github.com/bartossh/algoZig/blob/main/trinagle/README.md)
