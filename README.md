@@ -25,3 +25,4 @@ This repo contains of algorithm and fun task implemented in a Zig programming la
 14. [Triangle](https://github.com/bartossh/algoZig/blob/main/triangle/README.md)
 15. [Perfect-numbers](https://github.com/bartossh/algoZig/blob/main/perfect-numbers/README.md)
 16. [Queen-attack](https://github.com/bartossh/algoZig/blob/main/queen-attack/README.md)
+17. [Reverse-string](https://github.com/bartossh/algoZig/blob/main/reverse-string/README.md)
