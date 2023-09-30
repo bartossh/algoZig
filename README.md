@@ -26,3 +26,4 @@ This repo contains of algorithm and fun task implemented in a Zig programming la
 19. [Perfect-numbers](https://github.com/bartossh/algoZig/blob/main/perfect-numbers/README.md)
 20. [Queen-attack](https://github.com/bartossh/algoZig/blob/main/queen-attack/README.md)
 21. [Reverse-string](https://github.com/bartossh/algoZig/blob/main/reverse-string/README.md)
+22. [Rna-transcription](https://github.com/bartossh/algoZig/blob/main/rna-transcription/README.md)
